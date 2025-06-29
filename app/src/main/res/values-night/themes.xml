@@ -1,0 +1,6 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme with No Action Bar -->
+    <style name="Theme.LeadStoreX" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+
+    </style>
+</resources>
